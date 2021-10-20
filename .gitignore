@@ -1,0 +1,11 @@
+.DS_Store
+extern/
+crashes/
+libs/
+obj/
+Android.mk.backup
+qpm.shared.json
+.idea
+cmake-build-debug
+ParticleTuner.*.qmod
+ndkpath.txt
